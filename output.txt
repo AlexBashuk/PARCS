@@ -1,0 +1,2 @@
+Sum of numbers: 500000000500000000
+Spent time: 10.7859690189
